@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Data Science Enthusiast
 -----------------------------------------
 
-I’m Mahwish Rahman ,a first-year BCA(DATA SCIENCE&AI) student at ICFAI University, Jharkhand, diving deep into the world of Data Science and Artificial Intelligence.
+I’m Mahwish Rahman ,a first-year BCA(Data Science & AI) student at ICFAI University, Jharkhand, diving deep into the world of Data Science and Artificial Intelligence.
 
 I’m endlessly curious about how technology thinks, learns, and creates — from AI algorithms to web development and smart automation.
 
