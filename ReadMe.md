@@ -1,3 +1,4 @@
+![logo](https://github.com/mywish-06/mywish-06/blob/main/3.png)
 Hi ! My name is Mahwish Rahman
 =======================================================================================================================================
 
@@ -29,10 +30,8 @@ If you’re someone who loves innovation, code, and crazy tech ideas, let’s co
 <p align="left"> <a href="https://www.github.com/mywish-06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/mywish06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/mywish-06" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mywish-06?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mywish06) 
+
 # 📊 GitHub Stats:
 <a href="http://www.github.com/mywish-06"><img src="https://github-readme-stats.vercel.app/api?username=mywish-06&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mywish-06's GitHub stats" /></a>
 
